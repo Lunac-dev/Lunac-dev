@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 University Student
-- 💡 Building **OLVY.CC**
+- 💡 Building **OVLY.CC**
 
 ## 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
